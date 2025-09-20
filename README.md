@@ -1,9 +1,6 @@
 # 💫 About Me:
 I'm currently working on TAU, a robotic hand designed using TouchDesigner & MediaPipe.<br>I'm currently learning mobile and full-stack development.<br>Fun fact: I programmed my first game at 10 years old!
 
----
-[![](https://visitcount.itsvg.in/api?id=yourfavoriteneighborhoodpochacco&icon=1&color=0)](https://visitcount.itsvg.in)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/michael-poniente" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael-poniente" height="30" width="40" /></a>
