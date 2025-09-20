@@ -49,16 +49,16 @@ I'm currently working on TAU, a robotic hand designed using TouchDesigner & Medi
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
   </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)" alt="express" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" alt="express" width="40" height="40"/> 
   </a> 
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" width="40" height="40"/> 
   </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="[https://vectorlogo.zone/logos/palletsprojects_flask/icon.svg](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)" alt="flask" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" alt="flask" width="40" height="40"/> 
   </a> 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="[https://cdn.worldvectorlogo.com/logos/nextjs-2.svg](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)" alt="nextjs" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" alt="nextjs" width="40" height="40"/> 
   </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
@@ -70,10 +70,10 @@ I'm currently working on TAU, a robotic hand designed using TouchDesigner & Medi
     <img src="https://worldvectorlogo.com/logo/react-native-1.svg" alt="reactnative" width="40" height="40"/> 
   </a> 
   <a href="https://reactrouter.com/" target="_blank" rel="noreferrer"> 
-    <img src="[https://svgrepo.com/svg/354262/react-router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)" alt="reactrouter" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" alt="reactrouter" width="40" height="40"/> 
   </a> 
   <a href="https://threejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white)" alt="threejs" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white" alt="threejs" width="40" height="40"/> 
   </a> 
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/> 
@@ -95,7 +95,7 @@ I'm currently working on TAU, a robotic hand designed using TouchDesigner & Medi
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
-    <img src="[https://cdn.worldvectorlogo.com/logos/canva-1.svg](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)" alt="canva" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" alt="canva" width="40" height="40"/> 
   </a> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
@@ -109,7 +109,7 @@ I'm currently working on TAU, a robotic hand designed using TouchDesigner & Medi
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
   <a href="https://scipy.org/" target="_blank" rel="noreferrer"> 
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white)" alt="scipy" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white" alt="scipy" width="40" height="40"/> 
   </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
@@ -123,7 +123,7 @@ I'm currently working on TAU, a robotic hand designed using TouchDesigner & Medi
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
   <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)" alt="github" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="github" width="40" height="40"/> 
   </a> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
@@ -135,7 +135,7 @@ I'm currently working on TAU, a robotic hand designed using TouchDesigner & Medi
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
   </a> 
   <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> 
-    <img src="[https://lobehub.com/icons/notion/monochrome.svg](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)" alt="notion" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white" alt="notion" width="40" height="40"/> 
   </a> 
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
@@ -143,16 +143,16 @@ I'm currently working on TAU, a robotic hand designed using TouchDesigner & Medi
 
 #🎮 Game Engines
   <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"> 
-    <img src="[https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white)" alt="unrealengine" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white" alt="unrealengine" width="40" height="40"/> 
   </a> 
   <a href="https://www.nvidia.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/nvidia.svg" alt="nvidia" width="40" height="40"/> 
   </a> 
   <a href="https://store.steampowered.com/" target="_blank" rel="noreferrer"> 
-    <img src="[https://cdn.worldvectorlogo.com/logos/steam.svg](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white)" alt="steam" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white)" alt="steam" width="40" height="40"/> 
   </a> 
   <a href="https://www.riotgames.com/" target="_blank" rel="noreferrer"> 
-    <img src="(https://img.shields.io/badge/riotgames-D32936.svg?style=flat-square&logo=riotgames&logoColor=white" alt="riotgames" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/riotgames-D32936.svg?style=flat-square&logo=riotgames&logoColor=white" alt="riotgames" width="40" height="40"/> 
   </a> 
 </p>
 
