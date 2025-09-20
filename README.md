@@ -67,7 +67,7 @@ I'm currently working on TAU, a robotic hand designed using TouchDesigner & Medi
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
   </a> 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://worldvectorlogo.com/logo/react-native-1.svg" alt="reactnative" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactnative" width="40" height="40"/> 
   </a> 
   <a href="https://reactrouter.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" alt="reactrouter" width="40" height="40"/> 
