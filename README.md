@@ -18,9 +18,10 @@ I'm currently working on TAU, a robotic hand designed using TouchDesigner & Medi
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yourfavoriteneighborhoodpochacco&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-# 💻 Tech Stack:
+
 <p align="left"> 
-  <!-- Languages -->
+
+  # 💻 Tech Stack:
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
@@ -37,7 +38,7 @@ I'm currently working on TAU, a robotic hand designed using TouchDesigner & Medi
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 
-  <!-- Frameworks / Libraries -->
+# 📖 Frameworks / Libraries
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
     <img src="https://assets.vercel.com/image/upload/v1662130559/front/favicon/vercel/180x180.png" alt="vercel" width="40" height="40"/> 
   </a> 
@@ -54,7 +55,7 @@ I'm currently working on TAU, a robotic hand designed using TouchDesigner & Medi
     <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" width="40" height="40"/> 
   </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+    <img src="https://vectorlogo.zone/logos/palletsprojects_flask/icon.svg" alt="flask" width="40" height="40"/> 
   </a> 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
@@ -66,10 +67,10 @@ I'm currently working on TAU, a robotic hand designed using TouchDesigner & Medi
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
   </a> 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
+    <img src="https://worldvectorlogo.com/logo/react-native-1.svg" alt="reactnative" width="40" height="40"/> 
   </a> 
   <a href="https://reactrouter.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/react-router.svg" alt="reactrouter" width="40" height="40"/> 
+    <img src="https://svgrepo.com/svg/354262/react-router" alt="reactrouter" width="40" height="40"/> 
   </a> 
   <a href="https://threejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/> 
@@ -81,7 +82,7 @@ I'm currently working on TAU, a robotic hand designed using TouchDesigner & Medi
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
 
-  <!-- Databases -->
+ # 🔢 Databases
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
   </a> 
@@ -117,7 +118,7 @@ I'm currently working on TAU, a robotic hand designed using TouchDesigner & Medi
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
   </a> 
 
-  <!-- DevOps / Tools -->
+🛠️ DevOps / Tools
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
@@ -134,13 +135,13 @@ I'm currently working on TAU, a robotic hand designed using TouchDesigner & Medi
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
   </a> 
   <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/notion/notion-icon.svg" alt="notion" width="40" height="40"/> 
+    <img src="https://lobehub.com/icons/notion/monochrome.svg" alt="notion" width="40" height="40"/> 
   </a> 
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> 
 
-  <!-- Game Engines -->
+🎮 Game Engines
   <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unrealengine" width="40" height="40"/> 
   </a> 
@@ -151,15 +152,9 @@ I'm currently working on TAU, a robotic hand designed using TouchDesigner & Medi
     <img src="https://cdn.worldvectorlogo.com/logos/steam.svg" alt="steam" width="40" height="40"/> 
   </a> 
   <a href="https://www.riotgames.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/riot-games-wordmark.svg" alt="riotgames" width="40" height="40"/> 
+    <img src="https://assets.streamlinehq.com/image/private/w_34,h_34,ar_1/f_auto/v1/icons/video-games/riot-games-9pmbjaqokhvytephad2mep.png/riot-games-duiu2h1gzye8iq7oolt5ct.png" alt="riotgames" width="40" height="40"/> 
   </a> 
 </p>
 
  <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/michaelsbites"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="michaelsbites" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yourfavoriteneighborhoodpochacco&show_icons=true&locale=en&layout=compact" alt="yourfavoriteneighborhoodpochacco" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yourfavoriteneighborhoodpochacco&show_icons=true&locale=en" alt="yourfavoriteneighborhoodpochacco" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yourfavoriteneighborhoodpochacco&" alt="yourfavoriteneighborhoodpochacco" /></p>
