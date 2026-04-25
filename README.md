@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm currently working on TAU, a robotic hand designed using TouchDesigner & MediaPipe.<br>I'm currently learning mobile and full-stack development.<br>Fun fact: I programmed my first game at 10 years old!
+# About Me:
+I'm currently working on boba_blitz, a cross-timeline modern MMORPG.<br>I'm currently learning full-stack development and machine learning.<br>Fun fact: I programmed my first game at 10 years old!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,15 +19,6 @@ I'm currently working on TAU, a robotic hand designed using TouchDesigner & Medi
 <p align="left"> 
 
   # 💻 Tech Stack:
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
@@ -36,12 +27,6 @@ I'm currently working on TAU, a robotic hand designed using TouchDesigner & Medi
   </a> 
 
 # 📖 Frameworks / Libraries
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://assets.vercel.com/image/upload/v1662130559/front/favicon/vercel/180x180.png" alt="vercel" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
   </a> 
@@ -69,12 +54,6 @@ I'm currently working on TAU, a robotic hand designed using TouchDesigner & Medi
   <a href="https://reactrouter.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" alt="reactrouter" width="40" height="40"/> 
   </a> 
-  <a href="https://threejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white" alt="threejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/> 
-  </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
@@ -82,9 +61,6 @@ I'm currently working on TAU, a robotic hand designed using TouchDesigner & Medi
  # 🔢 Databases
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
   </a> 
 
 # 🎨Design / Productivity 
@@ -101,9 +77,6 @@ I'm currently working on TAU, a robotic hand designed using TouchDesigner & Medi
 # 🤖 AI / ML
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
   <a href="https://scipy.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white" alt="scipy" width="40" height="40"/> 
@@ -122,28 +95,13 @@ I'm currently working on TAU, a robotic hand designed using TouchDesigner & Medi
   <a href="https://github.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="github" width="40" height="40"/> 
   </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-  </a> 
   <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white" alt="notion" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> 
 
 #🎮 Game Engines
   <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white" alt="unrealengine" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.nvidia.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nvidia.svg" alt="nvidia" width="40" height="40"/> 
   </a> 
   <a href="https://store.steampowered.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white)" alt="steam" width="40" height="40"/> 
