@@ -1,5 +1,5 @@
 # About Me:
-I'm currently working on boba_blitz, a cross-timeline modern MMORPG.<br>I'm currently learning full-stack development and machine learning.<br>Fun fact: I programmed my first game at 10 years old!
+Currently building ATELIER part-time!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
